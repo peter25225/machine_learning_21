@@ -1,0 +1,12 @@
+Полезные ссылки к лекции
+1. Документация sklearn по деревьям https://scikit-learn.org/stable/modules/tree.html 
+
+2. Классификация, дерево решений и метод ближайших соседей  https://habr.com/ru/company/ods/blog/322534/
+
+3. Лекция Евгения Соколова на ФКН ВШЭ по деревьям https://github.com/esokolov/ml-course-hse/blob/master/2016-fall/seminars/sem07-trees.ipynb 
+
+https://github.com/esokolov/ml-course-hse/blob/master/2016-fall/lecture-notes/lecture07-trees.pdf
+
+Видео лекции Воронцова К.В.: https://www.youtube.com/watch?v=SFh4HRLX3YY
+
+https://www.hse.ru/mirror/pubs/share/215285956
